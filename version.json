@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
+  "version": "2.6.0",
   "url": "https://github.com/bianchiluca2302-cloud/divisione-report-updates/releases/latest/download/DivisioneReport-Setup.exe",
-  "note": "Installer guidato, backup automatico dei dati, licenze con scadenza, riordino automatico dei vecchi file"
+  "note": "Rimborso km giorno per giorno nei file (scritta sull'ultima riga di ogni giro), km sempre interi, 30 km tolti per giro, correzioni a tariffa fissa e salvataggi"
 }

@@ -1,6 +1,6 @@
 {
-  "version": "2.7.1",
+  "version": "2.7.2",
   "url": "https://github.com/bianchiluca2302-cloud/divisione-report-updates/releases/latest/download/DivisioneReport-Setup.exe",
-  "note": "Piu' sicurezza e stabilita': aggiornamenti verificati, licenza controllata anche alla generazione dei file, correzioni varie",
-  "sha256": "c547fe26f87ca8de7c06ce1f6c9a96be33e51192a02456b1f883919ce941ea74"
+  "note": "Aggiornamento automatico che funziona anche sui PC con certificati di Windows non aggiornati, saluto di chiusura corretto quando si passa piu' volte sulla X, animazioni piu' rapide e morbide",
+  "sha256": "3f014c16dd0bc8c3905bcf5ffba2105bf1141c7435e4e9fed5a9709b1c6d0756"
 }

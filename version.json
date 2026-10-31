@@ -1,6 +1,6 @@
 {
-  "version": "2.7.3",
+  "version": "2.7.4",
   "url": "https://github.com/bianchiluca2302-cloud/divisione-report-updates/releases/latest/download/DivisioneReport-Setup.exe",
-  "note": "Il rimborso km del giro compare anche nell'anteprima prima di generare i file, km sempre aggiornati quando si apre la Revisione km, spunte e correzioni salvate subito, schermate piu' chiare",
-  "sha256": "dfc5ada6f45d52dd6ca24d0e4315a85f1826b19f723eacd9ecda71904a61c663"
+  "note": "Riassunti e schemi: barra di composizione del totale, riepilogo nella Revisione km, riassunto per ogni giorno, riquadro Da sistemare nel foglio, passaggi in alto cliccabili",
+  "sha256": "24dd1daa7548f8e4c518fdb5a359265414857d72863acefa0f97aad128a6520c"
 }

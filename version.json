@@ -1,6 +1,6 @@
 {
-  "version": "2.7.2",
+  "version": "2.7.3",
   "url": "https://github.com/bianchiluca2302-cloud/divisione-report-updates/releases/latest/download/DivisioneReport-Setup.exe",
-  "note": "Aggiornamento automatico che funziona anche sui PC con certificati di Windows non aggiornati, saluto di chiusura corretto quando si passa piu' volte sulla X, animazioni piu' rapide e morbide",
-  "sha256": "3f014c16dd0bc8c3905bcf5ffba2105bf1141c7435e4e9fed5a9709b1c6d0756"
+  "note": "Il rimborso km del giro compare anche nell'anteprima prima di generare i file, km sempre aggiornati quando si apre la Revisione km, spunte e correzioni salvate subito, schermate piu' chiare",
+  "sha256": "dfc5ada6f45d52dd6ca24d0e4315a85f1826b19f723eacd9ecda71904a61c663"
 }

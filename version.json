@@ -1,6 +1,6 @@
 {
-  "version": "2.7.4",
-  "url": "https://github.com/bianchiluca2302-cloud/divisione-report-updates/releases/latest/download/DivisioneReport-Setup.exe",
-  "note": "Riassunti e schemi: barra di composizione del totale, riepilogo nella Revisione km, riassunto per ogni giorno, riquadro Da sistemare nel foglio, passaggi in alto cliccabili",
-  "sha256": "24dd1daa7548f8e4c518fdb5a359265414857d72863acefa0f97aad128a6520c"
+    "version":  "2.7.5",
+    "url":  "https://github.com/bianchiluca2302-cloud/divisione-report-updates/releases/latest/download/DivisioneReport-Setup.exe",
+    "note":  "Nuova attivazione con licenze piu\u0027 sicure: dopo l\u0027aggiornamento serve la nuova chiave. Impostazioni piu\u0027 semplici, importazione guidata.",
+    "sha256":  "2ac9b4617fcaf409186ee220a5b4175040b17024cd95cc10838bcea6b5d5fe51"
 }
